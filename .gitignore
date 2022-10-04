@@ -2,7 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+data/
+comparison/
+csv/
+html/
+molecules/
+results/
 # C extensions
 *.so
 
